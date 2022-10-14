@@ -1,2 +1,2 @@
 email : ywack@naver.com
-gitID : ywack@naver.com
+gitID : ywack
